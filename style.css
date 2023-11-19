@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Vina+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+
+#header {
+    display: flex;
+    background-image: url(assets/top-img.jpg);
+    flex-flow: column;
+    background-size: cover;
+    align-content: center;
+}
+
+h1 {
+    font-family: "arial";
+    text-align: center;
+}
