@@ -9,7 +9,32 @@
     align-content: center;
 }
 
+.flex-container {
+    align-items: center;
+    display:flex;
+    justify-content: space-evenly;
+    font-family: "Luckiest Guy";
+    font-size: xx-large;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
 h1 {
     font-family: "arial";
     text-align: center;
+}
+
+h2 {
+    font-family: "times new roman";
+    text-align: left;
+}
+
+p {
+    position: relative;
+}
+
+li {
+    font-size:medium;
 }
